@@ -6,5 +6,5 @@ setup(
 	  description='An OpenCV based application',
 	  url='https://github.com/tagirsabirov/Innocamp-Hackathon-2',
 	  author='Tagir Sabirov and Timur Vakhrushev',
-	  packages=['opencv-python', 'mediapipe'],
+	  install_requires=['opencv-python', 'mediapipe']
 	  )
