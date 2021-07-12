@@ -5,4 +5,4 @@
 * `pip install mediapipe`
 
 
-![Example Video](/Video.mp4)
+![Example](/Video.gif)
