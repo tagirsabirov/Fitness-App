@@ -3,4 +3,6 @@
 **To play, you will need to install OpenCV and MediaPipe using pip:**
 * `pip install opencv-python`
 * `pip install mediapipe`
+
+
 ![Example Video](/Video.mp4)
