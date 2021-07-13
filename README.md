@@ -4,5 +4,7 @@
 1.     pip install opencv-python
 2.     pip install mediapipe
 
+**To use the app, run App.py**
+
 
 ![Example](/Video.gif)
