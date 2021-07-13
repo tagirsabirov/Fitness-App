@@ -5,4 +5,6 @@
 2.     pip install mediapipe
 
 **To use the app, run App.py**
+
+
 ![Example](/Video.gif)
