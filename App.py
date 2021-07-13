@@ -2,7 +2,6 @@ import cv2
 import mediapipe as mp
 import time
 import numpy as np
-from matplotlib import pyplot as plt
 
 mpPose = mp.solutions.pose
 mpDraw = mp.solutions.drawing_utils
