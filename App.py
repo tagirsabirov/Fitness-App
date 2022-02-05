@@ -46,10 +46,10 @@ while True:
 		if angle2 > 180.0:
 			angle2 = 360-angle2
 		if angle1 > 140 and angle2 > 140:
-			j = 1
-		if angle1 < 110 and angle2 < 110 and j == 1:
+			resetAngle = True
+		if angle1 < 110 and angle2 < 110 and resetAngle == True:
 			counter += 1
-			j = 0
+			resetAngle = False
 
 cap.release()
 cv2.destroyAllWindows()
